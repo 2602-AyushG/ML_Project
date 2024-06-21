@@ -1,4 +1,4 @@
-# ML_Project
+# Machine_Learning
 # Human Activity Recognition (HAR) Model
 # Overview
 This project involves the development of a Human Activity Recognition (HAR) model using various machine learning algorithms. The model is designed to classify different human activities based on sensor data, such as data collected from accelerometers and gyroscopes.
